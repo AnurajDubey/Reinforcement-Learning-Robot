@@ -1,6 +1,6 @@
 # Reinforcement Learning Robot
 
-A reinforcement learning project where a robot learns to navigate a 10x10 grid maze entirely from experience — developing an optimal path to the goal through repeated trial episodes, guided by a structured reward function with no hard-coded directions.
+A reinforcement learning project where a robot learns to navigate a 10x10 grid maze entirely from experience — developing an optimal path to the goal through repeated trial episodes, guided by a structured reward function.
 
 If curious to learn more, code is available upon request for recruiters and potential employers.
 
