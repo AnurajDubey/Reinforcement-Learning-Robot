@@ -96,7 +96,7 @@ Every non-obstacle cell colored by its learned maximum Q-value, with an arrow in
 
 ![Q-Value Heatmap](results/qvalue_heatmap.png)
 
-Green cells (high value) cluster near the goal — the robot has learned that being close to the goal is good. Red cells (low value) are far from the goal or adjacent to quicksand. The arrows form a coherent policy that funnels the robot toward the top-left regardless of where it starts.
+Green cells (high value) cluster near the goal — the robot has learned that being close to the goal is good. Red cells (low value) are far from the goal or adjacent to quicksand. The arrows form a coherent policy that funnels the robot toward the top-left regardless of where it starts. 
 
 ---
 
